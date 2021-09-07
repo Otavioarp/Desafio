@@ -1,3 +1,7 @@
+'''
+Otávio Augusto de Rezende Pinto
+Email: otaviopqsi@gmail.com
+'''
 def retorna_guiche_ingresso(ingresso_numero):
     impares = []
     for j in range(1,ingresso_numero,2):
